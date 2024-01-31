@@ -33,6 +33,21 @@ Mobile: Jetpack Compose<br>
     <li>3-е место в финале всероссийского конкурса "Моя профессия - ИТ"</li>
     <img src="hackathon.jpg" alt="фотография с хакатона" height="300"/>
 </ul>
+<h3>Портфолио:</h3>
+<ul>
+    <li><a href="https://github.com/andreydem0505/HomeController">Мобильное приложение</a>, контролирующее состояние окружающей среды (Jetpack Compose)</li>
+    <li>Фронтенд сервиса для генерации уникальных описаний отелей (Jetpack Compose, React.js)</li>
+    <img src="travelparse-site.png" alt="скриншот сайта" height="300"/>
+    <img src="travelparse-mobile1.png" alt="скриншот мобильного приложения" height="300"/>
+    <img src="travelparse-mobile2.png" alt="скриншот мобильного приложения" height="300"/>
+    <li>Фронтенд сервиса для заказа фотографий со спутников (React.js)</li>
+    <img src="terra-cognita1.png" alt="скриншот сайта" height="300"/>
+    <img src="terra-cognita2.png" alt="скриншот сайта" height="300"/>
+    <li>Калькулятор калорийности (чистый JS)</li>
+    <img src="fitnessapp1.png" alt="скриншот сайта" height="300"/>
+    <img src="fitnessapp2.png" alt="скриншот сайта" height="300"/>
+    <img src="fitnessapp3.png" alt="скриншот сайта" height="300"/>
+</ul>
 <h3>Предыдущий опыт работы:</h3>
 Фриланс, ссылка на профиль - <a href="https://a24.biz/authors/4805761/">https://a24.biz/authors/4805761/</a>
 <h3>Контакты:</h3>
