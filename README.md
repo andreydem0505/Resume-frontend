@@ -36,13 +36,16 @@ Mobile: Jetpack Compose<br>
 <h3>Портфолио:</h3>
 <ul>
     <li><a href="https://github.com/andreydem0505/HomeController">Мобильное приложение</a>, контролирующее состояние окружающей среды (Jetpack Compose)</li>
+    <hr/>
     <li>Фронтенд сервиса для генерации уникальных описаний отелей (Jetpack Compose, React.js)</li>
     <img src="travelparse-mobile1.png" alt="скриншот мобильного приложения" height="300"/>
     <img src="travelparse-mobile2.png" alt="скриншот мобильного приложения" height="300"/>
     <img src="travelparse-site.png" alt="скриншот сайта" height="300"/>
+    <hr/>
     <li>Фронтенд сервиса для заказа фотографий со спутников (React.js)</li>
     <img src="terra-cognita1.png" alt="скриншот сайта" height="300"/>
     <img src="terra-cognita2.png" alt="скриншот сайта" height="300"/>
+    <hr/>
     <li>Калькулятор калорийности (чистый JS)</li>
     <img src="fitnessapp1.png" alt="скриншот сайта" height="300"/>
     <img src="fitnessapp2.png" alt="скриншот сайта" height="300"/>
