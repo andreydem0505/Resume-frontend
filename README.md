@@ -1,5 +1,5 @@
 # Дементьев Андрей Дмитриевич
-<img align="right" src="me.jpg" alt="моя фотография" height="250">
+<img align="right" src="me.jpg" alt="моя фотография" style="height: 250px; object-fit: contain">
 <h3>Воронеж, 18 лет</h3>
 <h3>Начинающий фронтенд-разработчик</h3>
 <h3>Образование:</h3>
@@ -23,33 +23,33 @@ Mobile: Jetpack Compose<br>
 <h4>Уровень английского: B2</h4>
 <h3>Пройденные курсы:</h3>
 <ul>
-    <li>IT-школа Samsung</li>
-    <li>Kotlin for Android Bootcamp</li>
+    <li><a href="https://disk.yandex.ru/i/CmshtTaNnDJ-kw">IT-школа Samsung</a></li>
+    <li><a href="https://disk.yandex.ru/i/Ltr8u_cqfpVIDw">Kotlin for Android Bootcamp</a></li>
     <li>Jetbrains Academy</li>
-    <li>DSR .NET School</li>
+    <li><a href="https://disk.yandex.ru/i/e1AWvACi5J5dLQ">DSR .NET School</a></li>
 </ul>
 <h3>Достижения:</h3>
 <ul>
     <li>3-е место в финале всероссийского конкурса "Моя профессия - ИТ"</li>
-    <img src="hackathon.jpg" alt="фотография с хакатона" height="300"/>
+    <img src="hackathon.jpg" alt="фотография с хакатона" style="height: 300px; object-fit: contain"/>
 </ul>
 <h3>Портфолио:</h3>
 <ul>
     <li><a href="https://github.com/andreydem0505/HomeController">Мобильное приложение</a>, контролирующее состояние окружающей среды (Jetpack Compose)</li>
     <hr/>
     <li>Фронтенд сервиса для генерации уникальных описаний отелей (Jetpack Compose, React.js)</li>
-    <img src="travelparse-mobile1.png" alt="скриншот мобильного приложения" height="300"/>
-    <img src="travelparse-mobile2.png" alt="скриншот мобильного приложения" height="300"/>
-    <img src="travelparse-site.png" alt="скриншот сайта" height="300"/>
+    <img src="travelparse-mobile1.png" alt="скриншот мобильного приложения" style="height: 300px; object-fit: contain"/>
+    <img src="travelparse-mobile2.png" alt="скриншот мобильного приложения" style="height: 300px; object-fit: contain"/>
+    <img src="travelparse-site.png" alt="скриншот сайта" style="height: 300px; object-fit: contain"/>
     <hr/>
     <li>Фронтенд сервиса для заказа фотографий со спутников (React.js)</li>
-    <img src="terra-cognita1.png" alt="скриншот сайта" height="300"/>
-    <img src="terra-cognita2.png" alt="скриншот сайта" height="300"/>
+    <img src="terra-cognita1.png" alt="скриншот сайта" style="height: 300px; object-fit: contain"/>
+    <img src="terra-cognita2.png" alt="скриншот сайта" style="height: 300px; object-fit: contain"/>
     <hr/>
     <li>Калькулятор калорийности (чистый JS)</li>
-    <img src="fitnessapp1.png" alt="скриншот сайта" height="300"/>
-    <img src="fitnessapp2.png" alt="скриншот сайта" height="300"/>
-    <img src="fitnessapp3.png" alt="скриншот сайта" height="300"/>
+    <img src="fitnessapp1.png" alt="скриншот сайта" style="height: 300px; object-fit: contain"/>
+    <img src="fitnessapp2.png" alt="скриншот сайта" style="height: 300px; object-fit: contain"/>
+    <img src="fitnessapp3.png" alt="скриншот сайта" style="height: 300px; object-fit: contain"/>
 </ul>
 <h3>Предыдущий опыт работы:</h3>
 Фриланс, ссылка на профиль - <a href="https://a24.biz/authors/4805761/">https://a24.biz/authors/4805761/</a>
