@@ -6,10 +6,10 @@
 Воронежский государственный университет<br>
 Факультет компьютерных наук<br>
 Направление: программная инженерия<br>
-1 курс
+2 курс
 <h3>Скиллы:</h3>
 <ul>
-    <li>Обучаюсь программированию и разработке уже более 3 лет</li>
+    <li>Обучаюсь программированию и разработке уже более 4 лет</li>
     <li>Понимаю, как устроена инфраструктура IT-проектов</li>
     <li>Имею навыки объектно-ориентированного и функционального программирования</li>
     <li>Понимаю принципы хорошего кодинга, такие как SOLID</li>
@@ -20,13 +20,14 @@
 Web: React.js<br>
 Mobile: Jetpack Compose<br>
 Имею опыт работы с Bootstrap, Material Design
-<h4>Уровень английского: B2</h4>
+<h4>Уровень английского: <a href="https://disk.yandex.ru/i/3PaIluq00IfTOA">B2</a></h4>
 <h3>Пройденные курсы:</h3>
 <ul>
     <li><a href="https://disk.yandex.ru/i/CmshtTaNnDJ-kw">IT-школа Samsung</a></li>
     <li><a href="https://disk.yandex.ru/i/Ltr8u_cqfpVIDw">Kotlin for Android Bootcamp</a></li>
-    <li>Jetbrains Academy</li>
+    <li><a href="https://hyperskill.org/profile/39616141">Jetbrains Academy</a></li>
     <li><a href="https://disk.yandex.ru/i/e1AWvACi5J5dLQ">DSR .NET School</a></li>
+    <li><a href="https://disk.yandex.ru/d/Gu0DSm6WtlFuyg">Surf QA Summer School</a></li>
 </ul>
 <h3>Достижения:</h3>
 <ul>
@@ -52,7 +53,10 @@ Mobile: Jetpack Compose<br>
     <img src="fitnessapp3.png" alt="скриншот сайта" style="height: 300px; object-fit: contain"/>
 </ul>
 <h3>Предыдущий опыт работы:</h3>
-Фриланс, ссылка на профиль - <a href="https://a24.biz/authors/4805761/">https://a24.biz/authors/4805761/</a>
+<ul>
+<li><a href="https://a24.biz/authors/4805761/">Фрилансер</a></li>
+<li>Репетитор по информатике</li>
+</ul>
 <h3>Контакты:</h3>
 <ul>
     <li>Github: <a href="https://github.com/andreydem0505">https://github.com/andreydem0505</a></li>
